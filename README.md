@@ -67,8 +67,11 @@ $git config –global user.email(mail@domain.x) $git config –global user.name(
 
 
 
-'http://localhost:8080/ ' - serverul de jenkins va fi accesat la aceasta adresa
-va fi instalat plugin ul Blue Ocean care ofera o interfata prietenoasa in cadrul careia vedem stage urile,erorile,mesajele.
+`sudo systemctl enable jenkins`,`sudo systemctl start jenkins`,`sudo systemctl status jenkins`
+
+`http://localhost:8080/` - serverul de jenkins va fi accesat la aceasta adresa
+
+Va fi instalat plugin ul Blue Ocean care ofera o interfata prietenoasa in cadrul careia vedem stage urile,erorile,mesajele.
 Pentru testare automata cu Jenkins pipeline, vom avea nevoie de Jenkinsfile care este fisierul de configurare folosit pentru a defini si executa pipeline urile : 
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/65f6d16c-ad47-4222-ae33-4639d3f0bd3c)
