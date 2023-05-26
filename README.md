@@ -3,7 +3,9 @@ Film ales: Tenet
 
 ## Introducere
 Acest proiect implică crearea unei aplicații web Flask care va afișa informații despre filme și se vor utiliza diferite unelte din industria software, inclusiv mașina virtuală, Git și GitHub, Jenkins și Docker, pentru a dezvolta și implementa aplicația.
-###### Configurare initiala
+
+##### Configurare initiala
+
 Pentru inceput vom avea nevoie de mai multe programe instalate pe masina virtuala cu Ubuntu : git,gedit,vim,python3,pytest,pip,docker,jenkins.
 
 Pentru acest proiect am avut nevoie de un director in care voi lucra :se va crea cu
@@ -61,7 +63,9 @@ Pentru a pune modificarile facute pe server in directorul /home/git/curs_vcgj_44
 Pentru autentificare ne va cere credentialele.
 $git config –global user.email(mail@domain.x) $git config –global user.name(name) $git config –credentials.helper store–username-ul si parola care va fi un token generat pe site, iar credentialele noastre vor fi salvate pentru acest repository.
 
-## Testare cu Jenkins
+# Testare cu Jenkins <img src="https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/e02d06e9-e06e-4e47-aabd-b42ae6a7c150"  width="53" height="43"> <img src="https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/e02d06e9-e06e-4e47-aabd-b42ae6a7c150"  width="53" height="43">
+
+
 
 'http://localhost:8080/ ' - serverul de jenkins va fi accesat la aceasta adresa
 va fi instalat plugin ul Blue Ocean care ofera o interfata prietenoasa in cadrul careia vedem stage urile,erorile,mesajele.
@@ -72,5 +76,35 @@ Pentru testare automata cu Jenkins pipeline, vom avea nevoie de Jenkinsfile care
 Pentru a rula automat, Jenkins-ul are nevoie de un Virtual Environment si de requirements.txt –care contine  programele cerute pentru a putea rula in venv.Un venv va fi local – activeaza_venv, iar celalalt pentru Jenkins pe server – activeaza_venv_jenkins.De asemenea, pentru a rula aplicatia pe server avem nevoie de alt fisier ruleaza_aplicatia.
 Pentru a configura testarea automata apasam pe new build,punem nume si selectam pipeline apoi:
 
-![Screenshot 2023-05-23 215151](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/2202a6a6-33f1-4f95-97dd-3041800c687e){:width="300" height="150"}
+ 
+<img src="https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/2202a6a6-33f1-4f95-97dd-3041800c687e" alt="Screenshot 2023-05-23 215151" width="535" height="434">
+
+Dam build apoi in Blue Ocean vom vedea toate stage urile ca in poza urmatoare:
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/3bb769ec-29ca-4ad6-a1e6-fe237c2fe73e )
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/e5a1185b-1762-4bb9-b99a-acb352957909)
+
+
+Pentru orice modificare adusa codului va trebui sa facem din nou operatiunile git add,git commit,git push si apoi build.
+
+# Containerizare cu docker
+
+Vom avea nevoie de Dockerfile care va fi folosit pentru crearea contaierului cu aplicatia care  contine functionalitatea la care se lucreaza, o imagine, un fisier pentru a porni serviciul docker – dockerstart.sh 
+Cream imaginea folosind `sudo docker build -t 441d_filme:v01`
+
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/dd8eb449-2936-484e-9005-70abfd832725)
+
+Rulam containerul folosind `sudo docker run –name 441d_filme -p 8020:5020 441d_filme:v01`:
+Unde 8020 va fi portul de pe care poate fi accesata aplicatia din container 
+
+Cu `sudo docker ps` putem vedea containerul:
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/e584de82-8ae6-4c2c-a33c-e19d5405126d)
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/501afaef-741f-40c6-b33d-71972c52436d)
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/806ad8a7-a628-4bb2-a689-a8839fa0d32b)
+
 
