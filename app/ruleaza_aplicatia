@@ -1,0 +1,7 @@
+#!/bin/bash
+#LINUX
+export FLASK_APP=441D_filme
+#WINDOWS
+#set FLASK_APP=441D_filme
+
+flask run -p 5011 --reload
