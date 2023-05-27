@@ -30,7 +30,7 @@ pipeline {
                     echo '\n\nVerificare tests/*.py cu pylint';
                     pylint --exit-zero tests/*.py;
                     echo '\n\nVerificare sysinfo.py cu pylint';
-                    pylint --exit-zero 444D_flori.py;
+                    pylint --exit-zero 441D_filme.py;
                 '''
             }
         }
