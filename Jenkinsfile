@@ -35,6 +35,7 @@ pipeline {
             }
         }
 
+        
         stage('Unit Testing cu pytest') {
             agent any
             steps {
