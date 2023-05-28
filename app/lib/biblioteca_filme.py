@@ -1,9 +1,9 @@
-def an_lansare_django():
-    return("2012")
+def an_lansare_Transporter():
+    return("2002")
    
     
-def rating_django():
-    return("8.4")
+def rating_Transporter():
+    return("6.8")
     
 
 
