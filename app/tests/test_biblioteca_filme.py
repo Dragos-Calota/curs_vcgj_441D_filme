@@ -1,16 +1,16 @@
 import lib.biblioteca_filme as bfilme
 
-def test_an_lansare_inglorious_basterds():
-    var = bfilme.an_lansare_inglorious_basterds()
-    if var == "2009" : 
+def test_an_lansare_inception():
+    var = bfilme.an_lansare_inception()
+    if var == "2010" : 
         assert True
     else: 
         assert False
         
 
-def test_rating_inglorious_basterds():
-    var = bfilme.rating_inglorious_basterds()
-    if var == "8.3" :
+def test_rating_inglorious_inception():
+    var = bfilme.rating_inglorious_inception()
+    if var == "8.8" :
         assert True
     else: 
         assert False

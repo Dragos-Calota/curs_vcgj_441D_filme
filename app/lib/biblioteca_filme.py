@@ -1,9 +1,9 @@
-def an_lansare_inglorious_basterds():
-    return("2009")
+def an_lansare_inception():
+    return("2010")
    
     
-def rating_inglorious_basterds():
-    return("8.3")
+def rating_inception():
+    return("8.8")
     
 
 
