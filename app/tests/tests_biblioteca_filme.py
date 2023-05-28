@@ -8,7 +8,7 @@ def testReleaseYear():
         assert False
         
 
-def test_rating_django():
+def testRating():
     var = lib.biblioteca_filme.getRating()
     if var == "8.4" :
         assert True
