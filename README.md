@@ -42,11 +42,11 @@ Acum vom putea porni aplicatia 441D_filme.py din directorul /app astfel: `python
 
 Ruta standard `‘/’`,`/CompletNecunoscuti` ->pentru informatii film ,`/CompletNecunoscuti/rating` si `/CompletNecunoscuti/an_lansare`
 
-![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/d8daa572-97ed-48aa-9891-3a92c9d64882)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/c168da0c-148e-4ce7-9962-96fe55dd45bb)
 
- ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/94de3f77-745e-4ad8-8211-6edf255b0ca3)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/a2f7a123-d016-41f3-b34a-1b1359bbea68)
 
- ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/fb13cd43-0326-4a63-9225-5f825e6c4166)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/fb5d48ec-8655-497b-bbe0-b14550832a42)
 
  In directorul /app vom mai face un director cu numele tests :
 `mkdir tests` Aici vom crea fisierul `test_biblioteca_filme.py` si vom crea functiile de testare, bfilme este fisierul importat din /lib – biblioteca_filme.py Pentru a vedea daca functioneaza testele, instalam pytest : `sudo apt install pip` `pip install pytest`
