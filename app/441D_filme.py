@@ -22,6 +22,10 @@ def getMovie():
     ret += "Rating IMDB: "
     ret += lib.biblioteca_filme.getRating()
     ret += "<br>"
+
+    ret += "Gen: "
+    ret += lib.biblioteca_filme.getGenre()
+    ret += "<br>"
     
     
     
@@ -41,6 +45,10 @@ def getRatingPage():
     
     return ret
     
+@app.route('/django/genre', methods=['GET'])
+def getGenrePage():
+    ret = ""
+    ret += lib.biblioteca_filme.getGenre()
 
     
 

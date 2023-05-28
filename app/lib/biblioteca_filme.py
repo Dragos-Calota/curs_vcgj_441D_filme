@@ -5,7 +5,8 @@ def getReleaseYear():
 def getRating():
     return("8.4")
     
-
+def getGenre():
+    return("Western")
 
 
 
