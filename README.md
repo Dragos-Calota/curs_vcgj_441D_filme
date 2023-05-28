@@ -38,7 +38,7 @@ cu linia urmatoare aplicatia Flask va rula si va folosi portul 5001:
 
 Acum vom putea porni aplicatia 441D_filme.py din directorul /app astfel: `python3 441D_filme.py` Programul va porni pe masina locala, putem accesa link-ul `127.0.0.1 :5001` SAU `localhost :5001` 
 
-![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/7c251a0d-161b-450e-8384-fbe535f0c3ad)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/55c79606-ea4f-4f78-a314-862fe1417774)
 
 Ruta standard `‘/’`,`/CompletNecunoscuti` ->pentru informatii film ,`/CompletNecunoscuti/rating` si `/CompletNecunoscuti/an_lansare`
 
