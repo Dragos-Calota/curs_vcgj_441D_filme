@@ -6,3 +6,5 @@
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/f062550c-45a3-4852-b658-c0ff54c2c9f7)
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/02e4f598-6386-4def-82a8-f9dbbecb27b4)
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/3e966f68-27e5-43c7-8d75-ced1673d69e5)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/603fb99e-e42a-4e7f-ba1d-b067ed0d2bb8)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/df15a227-5ec7-4be0-9e29-5d3c07122e6c)
