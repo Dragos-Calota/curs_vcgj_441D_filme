@@ -101,7 +101,7 @@ Cream imaginea folosind `sudo docker build -t 441d_filme:v01 .`
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/dd8eb449-2936-484e-9005-70abfd832725)
 
-Rulam containerul folosind `sudo docker run –name 441d_filme -p 8020:5020 441d_filme:v01`:
+Rulam containerul folosind `sudo docker run --name 441d_filme -p 8020:5020 441d_filme:v01`:
 Unde 8020 va fi portul de pe care poate fi accesata aplicatia din container 
 
 Cu `sudo docker ps` putem vedea containerul:
