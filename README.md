@@ -32,7 +32,7 @@ Acum avem posibilitatea să pornim aplicația 441D_filme.py din directorul `/app
 `test_biblioteca_filme_py`
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/92727024/f7374bfb-d924-4c45-a1d3-70841a1543ca)
 
-##Testare cu Jenkins
+# Testarea cu Jenkins
 
 `sudo systemctl enable jenkins`,`sudo systemctl start jenkins`,`sudo systemctl status jenkins`
 
@@ -47,7 +47,7 @@ Setarile pentru Jenkins
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/92727024/489eaed8-f64f-46c5-b126-a8ece86bdd52)
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/92727024/97eec698-cbbe-4852-9155-37dd716d21c4)
 
-#Docker
+# Docker
 Vom crea Dockerfile care va fi folosit pentru a crea containerul
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/92727024/f8f628d6-146a-42ab-bc3c-14999d7289f2)
 
