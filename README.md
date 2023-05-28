@@ -27,14 +27,11 @@ Eu am ales filmul “tenet”, deci vom avea nevoie de functiile :  `an_lansare_
 Vom crea inca un director in `/home/git/curs_vcgj_441D_filme/app` -> `/lib`  cu `mkdir lib`
 `touch biblioteca_filme.py` `gedit biblioteca_filme.py` Aici vom scrie functiile.
 
-![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/c3c5c0aa-a536-444c-802f-c74bde7ac79b)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/6f5cc2c8-c52a-4b79-9a15-f3dd4a3dae4e)
 
 441D_filme.py cod:
 
-![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/9be0a4d5-ac02-4582-851e-dbe8a64c7ba1)
-
-
-
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/88652e53-5d90-48c9-83e4-397f39e34b16)
 
 cu linia urmatoare aplicatia Flask va rula si va folosi portul 5001:
 `app.run(host = "127.0.0.1", port = 5001)`
