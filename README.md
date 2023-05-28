@@ -15,4 +15,6 @@ Ca si inceput, trebuie sa cream un folder folosind comanda `mkdir`, dupa care cl
 
 In acest folder, se va crea un folder app, care contine `441D_filme.py` care stocheaza rutele. Sunt implementate 2 functii esentiale: `an_lansare_shooter` si `an_lansare_shooter`, care vor returna `2007` respectiv `7.1`.
 In acest folder, folosim comanda `mkdir` pentru a mai crea unul, cu numele `/lib` in care vom adauga fisierul `biblioteca_filme.py`.
+
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/96300867/ca7be243-8c83-416b-8332-5b492a03e47c)
+
