@@ -1,9 +1,9 @@
-def an_lansare_tenet():
-    return("2020")
+def an_lansare_CompletNecunoscuti():
+    return("2021")
    
     
-def rating_tenet():
-    return("7.3")
+def rating_CompletNecunoscuti():
+    return("7.9")
     
 
 
