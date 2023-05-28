@@ -1,8 +1,8 @@
-def an_lansare_django():
+def getReleaseYear():
     return("2012")
    
     
-def rating_django():
+def getRating():
     return("8.4")
     
 

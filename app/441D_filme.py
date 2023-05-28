@@ -13,31 +13,31 @@ def index():
     return ret
     
 @app.route("/django/", methods=['GET'])
-def get_tenet():
+def getMovie():
     ret = "<h1>Django Unchained<h1>"
     ret += "An Lansare: "
-    ret += lib.biblioteca_filme.an_lansare_django()
+    ret += lib.biblioteca_filme.getReleaseYear()
     ret += "<br>"
     
     ret += "Rating IMDB: "
-    ret += lib.biblioteca_filme.rating_django()
+    ret += lib.biblioteca_filme.getRating()
     ret += "<br>"
     
     
     
     return ret
     
-@app.route("/django/an_lansare", methods=['GET'])
-def ia_an_lansare_django():
+@app.route("/django/year", methods=['GET'])
+def getReleaseYearPage():
     ret = ""
-    ret += lib.biblioteca_filme.an_lansare_django()
+    ret += lib.biblioteca_filme.getReleaseYear()
     
     return ret
     
 @app.route("/django/rating", methods=['GET'])
-def ia_rating_django():
+def getRatingPage():
     ret = ""
-    ret += lib.biblioteca_filme.rating_django()
+    ret += lib.biblioteca_filme.getRating()
     
     return ret
     
