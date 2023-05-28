@@ -62,8 +62,6 @@ $git config –global user.email(mail@domain.x) $git config –global user.name(
 
 # Testare cu Jenkins <img src="https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/e02d06e9-e06e-4e47-aabd-b42ae6a7c150"  width="53" height="43"> <img src="https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/e02d06e9-e06e-4e47-aabd-b42ae6a7c150"  width="53" height="43">
 
-
-
 `sudo systemctl enable jenkins`,`sudo systemctl start jenkins`,`sudo systemctl status jenkins`
 
 `http://localhost:8080/` - serverul de jenkins va fi accesat la aceasta adresa
@@ -91,10 +89,9 @@ Pentru orice modificare adusa codului va trebui sa facem din nou operatiunile gi
 Vom avea nevoie de Dockerfile care va fi folosit pentru crearea contaierului cu aplicatia care  contine functionalitatea la care se lucreaza, o imagine, un fisier pentru a porni serviciul docker – dockerstart.sh 
 Cream imaginea folosind `sudo docker build -t 441d_filme:v01 .`
 
-
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/9628e75b-c81d-4f3b-bcc1-4b740b9cea72)
 
-Rulam containerul folosind `sudo docker run –name 441d_filme -p 8020:5020 441d_filme:v01`:
+Rulam containerul folosind `sudo docker run --name 441d_filme -p 8020:5020 441d_filme:v01`:
 Unde 8020 va fi portul de pe care poate fi accesata aplicatia din container 
 
 Cu `sudo docker ps` putem vedea containerul:
@@ -104,5 +101,3 @@ Cu `sudo docker ps` putem vedea containerul:
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/b0f65488-e618-4fcc-abdf-8f57fec69077)
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/d021cf77-092e-4bbd-af10-5fc230446b9d)
-
-
