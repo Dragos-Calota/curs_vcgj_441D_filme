@@ -1,7 +1,7 @@
-import lib.biblioteca_filme as bfilme
+import lib.biblioteca_filme 
 
-def test_an_lansare_django():
-    var = bfilme.an_lansare_django()
+def testReleaseYear():
+    var = lib.biblioteca_filme.getReleaseYear()
     if var == "2012" : 
         assert True
     else: 
@@ -9,7 +9,7 @@ def test_an_lansare_django():
         
 
 def test_rating_django():
-    var = bfilme.rating_django()
+    var = lib.biblioteca_filme.getRating()
     if var == "8.4" :
         assert True
     else: 
