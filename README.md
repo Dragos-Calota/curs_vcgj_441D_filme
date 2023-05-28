@@ -23,7 +23,7 @@ In CLI, dam un git status pentru a vedea daca directorul git este supervizat de 
 Acum putem crea fisierele necesare proiectului, cel mai important fiind 441D_filme.py care va contine rutele si in el vom apela functiile necesare.
 
 Vom crea in `/home/git/curs_vcgj_441D_filme` alt director `/app` :  `mkdir app` iar in acest folder va se vor afla fisierele si codul aplicatiei.
-Eu am ales filmul “tenet”, deci vom avea nevoie de functiile :  `an_lansare_tenet()` care va intoarce string-ul “2020” , `rating_tenet()` – care va intoarce “7.3”.
+Eu am ales filmul “CompletNecunoscuti”, deci vom avea nevoie de functiile :  `an_lansare_CompletNecunoscuti()` care va intoarce string-ul “2021” , `rating_CompletNecunoscuti()` – care va intoarce “7.9”.
 Vom crea inca un director in `/home/git/curs_vcgj_441D_filme/app` -> `/lib`  cu `mkdir lib`
 `touch biblioteca_filme.py` `gedit biblioteca_filme.py` Aici vom scrie functiile.
 
