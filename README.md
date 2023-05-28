@@ -101,7 +101,7 @@ Cu `sudo docker ps` putem vedea containerul:
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/41adb46c-22e5-4880-a539-62fb5e6cea46)
 
-![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/3b60e329-fbf6-4b16-b301-02c3b6860216)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/b0f65488-e618-4fcc-abdf-8f57fec69077)
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/d021cf77-092e-4bbd-af10-5fc230446b9d)
 
