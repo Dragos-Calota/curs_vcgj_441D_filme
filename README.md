@@ -96,7 +96,7 @@ Pentru orice modificare adusa codului va trebui sa facem din nou operatiunile gi
 # Containerizare cu docker
 
 Vom avea nevoie de Dockerfile care va fi folosit pentru crearea contaierului cu aplicatia care  contine functionalitatea la care se lucreaza, o imagine, un fisier pentru a porni serviciul docker – dockerstart.sh 
-Cream imaginea folosind `sudo docker build -t 441d_filme:v01`
+Cream imaginea folosind `sudo docker build -t 441d_filme:v01 .`
 
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/dd8eb449-2936-484e-9005-70abfd832725)
