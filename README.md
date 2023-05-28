@@ -56,7 +56,7 @@ Pentru a rula testele local - pytest, folosim comanda (pentru python 3.10): `pyt
 
 Pentru a pune modificarile facute pe server in directorul /home/git/curs_vcgj_441D_filme vom da urmatoarele comenzi:
 `git status` apoi `git add*` pentru a adauga fisierele in zona de staging apoi  `git commit -m “mesaj’` ,apoi 
-`git push origin devel/LabesNarcis`
+`git push origin devel/LileaAndrei`
 Pentru autentificare ne va cere credentialele.
 $git config –global user.email(mail@domain.x) $git config –global user.name(name) $git config –credentials.helper store–username-ul si parola care va fi un token generat pe site, iar credentialele noastre vor fi salvate pentru acest repository.
 
