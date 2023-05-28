@@ -71,13 +71,12 @@ $git config –global user.email(mail@domain.x) $git config –global user.name(
 Va fi instalat plugin ul Blue Ocean care ofera o interfata prietenoasa in cadrul careia vedem stage urile,erorile,mesajele.
 Pentru testare automata cu Jenkins pipeline, vom avea nevoie de Jenkinsfile care este fisierul de configurare folosit pentru a defini si executa pipeline urile : 
 
-<img src="https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/76d4da2a-60d6-4c8b-a383-fae6381b7aa3"  width="530" height="430">
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/f1a74a96-3f18-4a0d-8003-69fb20d5ed97)
 
-
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/bd18325c-0e15-4ccb-95aa-b68a96e02bd4)
 
 Pentru a rula automat, Jenkins-ul are nevoie de un Virtual Environment si de requirements.txt –care contine  programele cerute pentru a putea rula in venv.Un venv va fi local – activeaza_venv, iar celalalt pentru Jenkins pe server – activeaza_venv_jenkins.De asemenea, pentru a rula aplicatia pe server avem nevoie de alt fisier ruleaza_aplicatia.
 Pentru a configura testarea automata apasam pe new build,punem nume si selectam pipeline apoi:
-
  
 <img src="https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/2202a6a6-33f1-4f95-97dd-3041800c687e" alt="Screenshot 2023-05-23 215151" width="535" height="434">
 
