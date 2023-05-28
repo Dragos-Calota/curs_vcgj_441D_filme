@@ -54,7 +54,7 @@ Pentru a rula testele local - pytest, folosim comanda (pentru python 3.10): `pyt
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/6da7d02a-22f1-4bb4-89fb-b98d850030a2)
 
-Pentru a pune modificarile facute pe server in directorul /home/git/curs_vcgj_441D_flori vom da urmatoarele comenzi:
+Pentru a pune modificarile facute pe server in directorul /home/git/curs_vcgj_441D_filme vom da urmatoarele comenzi:
 `git status` apoi `git add*` pentru a adauga fisierele in zona de staging apoi  `git commit -m “mesaj’` ,apoi 
 `git push origin devel/LabesNarcis`
 Pentru autentificare ne va cere credentialele.
