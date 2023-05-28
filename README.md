@@ -12,7 +12,7 @@ Pentru acest proiect am avut nevoie de un director in care voi lucra :se va crea
 `mkdir git` apoi in acest director voi clona de pe GitHub repo ul(https://github.com/Dragos-Calota/curs_vcgj_441D_filme.git). 
 In CLI, dam un git status pentru a vedea daca directorul git este supervizat de git : `git status`
 
-![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/9101ece7-d87f-47c0-9fdc-4ba56ed0c9a5)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/376a4dde-51b4-4051-b380-4e15080b51b8)
 
 `cd curs_vcgj_441D_filme` ,`ls -la` – pentru a vedea daca s-au clonat de pe GitHub fisierele 
 
