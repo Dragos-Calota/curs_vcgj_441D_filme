@@ -25,3 +25,4 @@ WORKDIR /home/git/curs_vcgj_441D_filme/app
 EXPOSE 5011
 ENTRYPOINT ["./dockerstart.sh"]
 #CMD flask run --host 0.0.0.0 -p 5010
+
