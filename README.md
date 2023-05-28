@@ -1,5 +1,5 @@
 # Proiect VCGJ 441D - Aplicație web/Flask cu filme 🎥🎥🎥🎥
-Film ales: Tenet
+Film ales: Complet Necunoscuti
 
 ## Introducere
 Acest proiect implică crearea unei aplicații web Flask care va afișa informații despre filme și se vor utiliza diferite unelte din industria software, inclusiv mașina virtuală, Git și GitHub, Jenkins și Docker, pentru a dezvolta și implementa aplicația.
@@ -16,9 +16,9 @@ In CLI, dam un git status pentru a vedea daca directorul git este supervizat de 
 
 `cd curs_vcgj_441D_filme` ,`ls -la` – pentru a vedea daca s-au clonat de pe GitHub fisierele 
 
-`git branch devel/LabesNarcis` -voi crea branch ul personal 
+`git branch devel/LileaAndrei` -voi crea branch ul personal 
 
-`git checkout devel/LabesNarcis` -trecem pe branch 
+`git checkout devel/LileaAndrei` -trecem pe branch 
 
 Acum putem crea fisierele necesare proiectului, cel mai important fiind 441D_filme.py care va contine rutele si in el vom apela functiile necesare.
 
@@ -43,7 +43,7 @@ Acum vom putea porni aplicatia 441D_filme.py din directorul /app astfel: `python
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/7c251a0d-161b-450e-8384-fbe535f0c3ad)
 
-Ruta standard `‘/’`,`/tenet` ->pentru informatii film ,`/tenet/rating` si `/tenet/an_lansare`
+Ruta standard `‘/’`,`/CompletNecunoscuti` ->pentru informatii film ,`/CompletNecunoscuti/rating` si `/CompletNecunoscuti/an_lansare`
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/d8daa572-97ed-48aa-9891-3a92c9d64882)
 
