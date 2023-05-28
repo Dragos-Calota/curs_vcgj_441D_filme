@@ -18,3 +18,5 @@ In acest folder, folosim comanda `mkdir` pentru a mai crea unul, cu numele `/lib
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/96300867/ca7be243-8c83-416b-8332-5b492a03e47c)
 
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/96300867/84be272f-79aa-449a-97ea-39b7015338e3)
+
