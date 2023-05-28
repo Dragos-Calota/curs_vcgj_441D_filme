@@ -52,7 +52,7 @@ Ruta standard `‘/’`,`/CompletNecunoscuti` ->pentru informatii film ,`/Comple
 `mkdir tests` Aici vom crea fisierul `test_biblioteca_filme.py` si vom crea functiile de testare, bfilme este fisierul importat din /lib – biblioteca_filme.py Pentru a vedea daca functioneaza testele, instalam pytest : `sudo apt install pip` `pip install pytest`
 Pentru a rula testele local - pytest, folosim comanda (pentru python 3.10): `python3 -m pytest -v`
 
-![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/24204707/079fb65b-2f16-40eb-9654-19e9407e8626)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/129889527/6da7d02a-22f1-4bb4-89fb-b98d850030a2)
 
 Pentru a pune modificarile facute pe server in directorul /home/git/curs_vcgj_444D_flori vom da urmatoarele comenzi:
 `git status` apoi `git add*` pentru a adauga fisierele in zona de staging apoi  `git commit -m “mesaj’` ,apoi 
