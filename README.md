@@ -1,1 +1,11 @@
 # curs_vcgj_441D_filme
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/fbe4ef18-1858-4d6f-b8e6-95c41545ba37)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/7a33bfd3-7bde-4903-934b-e714b2e5b930)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/81710b52-209a-475f-a980-fbb66fb9fdd4)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/4eb114d9-9a34-4970-85ce-f2f3f60ddb3d)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/5d3280c4-2717-425f-bea5-a64e8344e8e4)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/0c793e14-dfa0-4c79-967f-3a2d7ccbd35c)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/ac9b06c9-d6e0-4a12-a350-6598689a464d)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/99bc284b-9fb9-43bb-af36-d294a614aca6)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/664a1721-141e-4a81-97e1-9b28295b89a0)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132927137/323eb618-cfbe-4b6f-831e-661ba0d30a66)
