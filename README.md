@@ -24,6 +24,21 @@ In CLI, dam un git status pentru a vedea daca directorul git este supervizat de 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/134146583/73193039-76dd-474b-ae08-2347d8b49767)
 
 
-#TESTARE CU JENKINS : 
+## TESTARE CU JENKINS : 
+
+`sudo systemctl enable jenkins`,`sudo systemctl start jenkins`,`sudo systemctl status jenkins`
+
+`http://localhost:8080/` - accesarea serverului de jenkins
+
+Va fi instalat plugin ul Blue Ocean care ofera o interfata prietenoasa in cadrul careia vedem stage urile,erorile,mesajele.
+Pentru testare automata cu Jenkins pipeline, vom avea nevoie de Jenkinsfile care este fisierul de configurare folosit pentru a defini si executa pipeline urile.
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/134146583/486afecc-9a08-4c6e-8448-6ef9315841e8)
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/134146583/ba437859-99f9-42e8-82ae-5724406e8e7f)
+
+Pentru orice modificare adusa codului va trebui sa facem din nou operatiunile git add,git commit,git push si apoi build.
+
+## Containerizare cu docker
 
 
