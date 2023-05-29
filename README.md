@@ -21,9 +21,7 @@ Pentru informatiile filmului se foloseste ruta '/' : "rating" si "an_lasare":
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132939648/6d4b52be-243c-4465-8280-76296345c515)
 
-Pentru a realiza testarea vom crea inca un director in directorul app(numit tests) care va contine fisierul test_biblioteca_filme.py
 
-![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132939648/6f3eb7a3-6137-4e02-bbf8-120cf149bb12)
 
 
 
