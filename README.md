@@ -24,3 +24,14 @@ Pentru informatiile filmului se foloseste ruta '/' : "rating" si "an_lasare":
 
 
 Docker
+Pentru a utiliza docker vom avea nevoie de Dockerfile care este folosit pentru a crea containerul cu aplicatia care contine functionalitatea. Vom crea imaginra folosind comanda: sudo docker build -t 441d_filme:v01 . :
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132939648/a6108919-5a1c-4f60-a0ef-f3643960bb62)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132939648/27c4da83-46ae-4614-9ddd-e662641d63eb)
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132939648/7b726cfc-7297-4cfd-83b2-b8b5ac79acbf)
+
+
+
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132939648/5a107fe2-74e0-4cb7-9e24-c4d196b4f406)
+
