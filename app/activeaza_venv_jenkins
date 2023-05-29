@@ -4,7 +4,7 @@ echo "Activating virtual environment"
 # source ../venv/bin/activate
 . ../.venv/bin/activate
 echo "Installing the dependencies"
-pip3 install flask
-pip3 install flask-bootstrap
-pip3 install pytest
-pip3 install pylint
+pip install flask
+pip install flask-bootstrap
+pip install pytest
+pip install pylint
