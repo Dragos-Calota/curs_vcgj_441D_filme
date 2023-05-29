@@ -17,7 +17,7 @@ Am creat directorul app care va contine codul aplicatiei. In cadrul acestui cod(
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/121881599/97f3ca97-c7bc-447f-b518-ddc460b48788)
 
-Vom rula aplicatia cu ajutorul comenzii python3 441D_filme.py. Programul va porni local si vom putea vedea rezultatele aplicatiei pe linkul http://127.0.0.1 :5001, adica practic se deschide un host local pe portul 5001.
+Vom rula aplicatia cu ajutorul comenzii python3 441D_filme.py. Programul va porni local si vom putea vedea rezultatele aplicatiei pe linkul http://127.0.0.1:5001, adica practic se deschide un host local pe portul 5001.
 Eu am ales filmul The Irishman lansat in anul 2019 cu un rating IMDB de 7.8. Aceste informatii pot fi vazute accesand linkul si intrand pe filmul ales de mine.
 
 
