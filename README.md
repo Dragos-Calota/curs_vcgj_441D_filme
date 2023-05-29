@@ -19,9 +19,9 @@ Pentru acest proiect am avut nevoie de un director in care voi lucra :se va crea
 
 Acum putem crea fisierele necesare proiectului, in primul rand, 441D_filme.py care va contine rutele si in el vom apela functiile necesare.
 
-Vom crea in `/home/git/curs_vcgj_441D_filme` alt director `/app` :  `mkdir app` iar in acest folder va se vor afla fisierele si codul aplicatiei.
+Vom crea in `/home/mariusdaniel99/Desktop/Proiect/curs_vcgj_441D_filme` alt director `/app` :  `mkdir app` iar in acest folder va se vor afla fisierele si codul aplicatiei.
 Eu am ales filmul “se7en”, deci vom avea nevoie de functiile :  `an_lansare_se7en()` care va intoarce string-ul “1995” , `rating_se7en()` – care va intoarce “8.6”.
-Vom crea inca un director in `/home/git/curs_vcgj_441D_filme/app` -> `/lib`  cu `mkdir lib`
+Vom crea inca un director in `/home/mariusdaniel99/Desktop/Proiect/curs_vcgj_441D_filme/app` -> `/lib`  cu `mkdir lib`
 `touch biblioteca_filme.py` `gedit biblioteca_filme.py` Aici o sa scriem functiile.
 
 
