@@ -36,3 +36,26 @@ Rulam comanda python3 -m pytest -v pentru a verifica testele.
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/06fe0cd7-075c-4ba8-941c-7cbc714d6d3f)
 
+
+
+   TESTARE JENKINS
+
+
+Accesam http://localhost:8080/ . Acesta este serverul Jenkins.
+
+Pentru a testa cu ajutorul Jenkins pipeline, avem nevoie de fisierul Jenkinsfile. In acest fisier sunt definite si executate pipeline-urile.
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/7ddc6fa9-63e2-4242-916c-62c4859eeb32)
+
+
+
+Pentru a rula acest fisier, am creat alt fisier numit ruleaza_aplicatia. 
+Pentru testarea automata, am creat un Pipeline script. 
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/57f380d6-e089-4869-b2e1-02352bd41062)
+
+
+Executam comanda Build now si cu ajutorul plug-in-ului Blue Ocean observam ca toate stage-urile au fost rulate cu succes.
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/87d8b656-e7d0-4d04-a555-7f61ceeb5893)
+
