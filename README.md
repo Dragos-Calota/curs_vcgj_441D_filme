@@ -25,4 +25,14 @@ git clone https://github.com/Dragos-Calota/curs_vcgj_441D_filme.git
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/7ad304d7-f16c-430f-af56-c31917e2e4c1)
 
+Rulam aplicatia 441D_filme.py din folderul app. Cu ajutorul aplicatiei Flask ni se vor afisa informatii despre numele filmului, rating si an lansare.
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/0a4c61ac-1b8f-408a-a981-b21cdbe3f4ec)
+
+
+Cu ajutorul aplicatiilor pip si pytest deja instalate, apelam functiile de testare din fisierul test_biblioteca_filme.py care se regaseste in /app/tests .
+
+Rulam comanda python3 -m pytest -v pentru a verifica testele.
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/06fe0cd7-075c-4ba8-941c-7cbc714d6d3f)
 
