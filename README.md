@@ -31,6 +31,11 @@ Am creat apoi un director nou numit tests. Acolo am creat fisierul test_bibliote
 Mai departe, pentru a pune in GitHub fisierele create, am folosit comanda git status pentru a vedea cate fisiere trebuie bagate, apoi git add . pentru a le adauga in zona de staging. Am folosit comanda git commit -m "mesaj" si git push origin devel/CristiLeustean. A trebuit mai intai sa ma autentific, am avut de asemenea nevoie sa imi generez un token cu acces la repository.
 
 
+JENKINS 
+
+Am parcurs pasii de instalare pentru Jenkins. De asemenea, am instalat plugin-ul Blue Ocean 
+
+
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/121881599/2861d80c-21e8-469c-bab3-af727fac3377)
 
 
