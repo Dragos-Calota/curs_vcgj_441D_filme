@@ -10,6 +10,7 @@
 
 
    Aplicatia 441D_filme are urmatorul continut:
+   
    ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132938214/446e05c4-da94-460e-b2f8-219558c5f99d)
     ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132938214/e92e1343-be3e-41ec-9925-d6d6e0a572b2)
 
