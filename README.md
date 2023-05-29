@@ -47,6 +47,7 @@ Am parcurs pasii de instalare pentru Jenkins. De asemenea, am instalat plugin-ul
 DOCKER
 
 Partea de containerizare a aplicatiei am realizat folosind programul Docker. Am instalat aplicatia iar apoi, dupa ce am adaugat o imagine am pornit serviciul. Am creat imaginea folosind comanda sudo docker build -t 441d_filme:v01. Am rulat containerul folosind sudo docker run --name 441d_filme -p 8020:5020 441d_filme:v01, unde portul 8020 se foloseste pentru a accesa aplicatia din container.
+Putem vizualiza ce returneaza aplicatia pe localhost:8020.
 
 
 
