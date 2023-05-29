@@ -10,7 +10,7 @@ Proiectul implica dezvoltarea unei aplicatii web prin care sa se poata vizualiza
 ETAPA DE REALIZARE
 
 
-Am creat directorul git cu ajutorul comenzii mkdir git 
+Am creat directorul git cu ajutorul comenzii mkdir git. Apoi am folosit comanda git clone pentru a putea accesa repository-ul. 
 
 
 
