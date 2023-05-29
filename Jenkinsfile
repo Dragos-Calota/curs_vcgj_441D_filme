@@ -27,16 +27,15 @@ pipeline {
                     . ./activeaza_venv;
                     echo '\n\nVerificare lib/*.py cu pylint\n';
                     pylint --exit-zero lib/*.py;
-
                     echo '\n\nVerificare tests/*.py cu pylint';
                     pylint --exit-zero tests/*.py;
-
                     echo '\n\nVerificare sysinfo.py cu pylint';
                     pylint --exit-zero 441D_filme.py;
                 '''
             }
         }
 
+        
         stage('Unit Testing cu pytest') {
             agent any
             steps {
