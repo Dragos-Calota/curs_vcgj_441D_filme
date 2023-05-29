@@ -59,3 +59,20 @@ Executam comanda Build now si cu ajutorul plug-in-ului Blue Ocean observam ca to
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/87d8b656-e7d0-4d04-a555-7f61ceeb5893)
 
+  DOCKER
+  
+  
+  
+  Dupa ce am instalat Docker , cu ajutorul comenzii "sudo docker build -t 441d_filme:v01 ." am creat o imagine.
+  
+  ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/ef4ee0f0-fa39-4974-aefd-43aad36cfcb4)
+
+  Cu ajutorul comenzii sudo docker ps -a afisam toate cointainerele disponibile
+  
+  ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/331eff93-9373-4525-a814-2e95e800e138)
+  
+  
+  
+  
+
+
