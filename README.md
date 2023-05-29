@@ -53,6 +53,7 @@ Containerul se ruleaza folosind comanda : "sudo docker run --name 441d_filme -p 
 
 
 Si se observa ca fuctioneaza corect:
+
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132938214/19ce9d3e-87bf-44a8-9d0c-fd8eef287011)
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132938214/6b3fc0a4-f0cb-4910-b364-8b909a75507e)
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132938214/7ef72656-2673-40b4-a5b8-30188e1093ac)
