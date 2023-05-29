@@ -1,6 +1,9 @@
 # curs_vcgj_441D_filme
+INTRODUCERE
+Proiectul implica dezvoltarea unei aplicatii web prin care sa se poata vizualiza detalii despre anumite filme. Acest lucru il vom realiza prin intermediul unei masini virtuale, Git, Jenkins si Docker. Astfel, va trebui sa instalam mai intai git, gedit. python3, pytest, jenkins, docker.
 
-Proiectul implica dezvoltarea unei aplicatii web prin care sa se poata vizualiza detalii despre anumite filme. Acest lucru il vom realiza prin intermediul unei masini virtuale, Git, Jenkins si Docker.
+ETAPA DE REALIZARE
+aa
 
 
 
