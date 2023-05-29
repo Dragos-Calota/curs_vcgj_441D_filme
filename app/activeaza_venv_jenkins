@@ -1,0 +1,10 @@
+echo "Trying to create the venv in the folder: .venv"
+python3 -m venv ../.venv
+echo "Activating virtual environment"
+# source ../venv/bin/activate
+. ../.venv/bin/activate
+echo "Installing the dependencies"
+pip3 install flask
+pip3 install flask-bootstrap
+pip3 install pytest
+pip3 install pylint
