@@ -14,4 +14,4 @@ git clone https://github.com/Dragos-Calota/curs_vcgj_441D_filme.git
         Folderul app ce contine:
             - fisierul py 441D_filme.py unde avem toate functiile necesare:
             
-           ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/96d96d1d-b9ac-4c88-adfd-935b3c37012c)
+
