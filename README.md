@@ -33,7 +33,7 @@ Mai departe, pentru a pune in GitHub fisierele create, am folosit comanda git st
 
 JENKINS 
 
-Am parcurs pasii de instalare pentru Jenkins. De asemenea, am instalat plugin-ul Blue Ocean 
+Am parcurs pasii de instalare pentru Jenkins. De asemenea, am instalat plugin-ul Blue Ocean care ne ofera o interfata mai usor de interpretat. Am creat Jenkinsfile care este fisierul de configurare care defineste si executa pipeline-urile. Pentru a rula automat, am creat fisierele activeaza_venv, activeaza_venv_jenkins si quickrequirements.txt pentru a putea rula aplicatia in venv (virtual environment). Pentru a rula efectiv aplicatia am creat fisierul ruleaza_aplicatia. In Jenkins, care se deschide local la adresa http://localhost:8080/, dupa ce am setat user si parola noua, am creat un pipeline nou, la care i-am dat adresa repository-ului in care lucrez proiectul (https://github.com/Dragos-Calota/curs_vcgj_441D_filme.git) si la branch specifier, am pus branch-ul meu. Am dat build iar testele au fost rulate cu succes.
 
 
 ![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/121881599/2861d80c-21e8-469c-bab3-af727fac3377)
