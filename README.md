@@ -12,6 +12,17 @@ git clone https://github.com/Dragos-Calota/curs_vcgj_441D_filme.git
   
   Pe branch-ul personal am creat toate fisiere necesare proiectului:
         Folderul app ce contine:
-            - fisierul py 441D_filme.py unde avem toate functiile necesare:
-            
+- fisierul py 441D_filme.py unde avem toate functiile necesare
+
+
+![poza1](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/4cdad7f4-1651-4d2b-97a0-e88215a37ce6)
+        
+- folderul lib in interiorul caruia gasim un fisier denumit biblioteca_filme.py
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/546bb065-ef4f-4eba-9103-280d616b5364)
+
+-folderul test in interiorul caruia gasim un fisier denumit test_biblioteca_filme.py
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/132925943/7ad304d7-f16c-430f-af56-c31917e2e4c1)
+
 
