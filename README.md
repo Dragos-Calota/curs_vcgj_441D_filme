@@ -41,4 +41,16 @@ Pentru orice modificare adusa codului va trebui sa facem din nou operatiunile gi
 
 ## Containerizare cu docker
 
+Vom avea nevoie de Dockerfile care va fi folosit pentru crearea contaierului cu aplicatia care  contine functionalitatea la care se lucreaza, o imagine, un fisier pentru a porni serviciul docker – dockerstart.sh 
+Cream imaginea folosind `sudo docker build -t 441d_filme:v01 .`
+
+Rulam containerul folosind sudo docker run --name 441d_filme -p 8020:5020 441d_filme:v01: Unde 8020 va fi portul de pe care poate fi accesata aplicatia din container
+
+Cu `sudo docker` ps putem vedea containerul. 
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/134146583/01bfd76e-dc5c-4611-aae3-631441d57226)
+
+![image](https://github.com/Dragos-Calota/curs_vcgj_441D_filme/assets/134146583/ce823390-1a70-4177-89bf-0ff58812f6df)
+
+
 
