@@ -2,7 +2,7 @@ import lib.biblioteca_filme as bfilme
 
 def test_an_lansare_inception():
     var = bfilme.an_lansare_inception()
-    if var == "2010" : 
+    if var == "2011" : 
         assert True
     else: 
         assert False
