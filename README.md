@@ -23,6 +23,4 @@ Pentru informatiile filmului se foloseste ruta '/' : "rating" si "an_lasare":
 
 
 
-
-
-
+Docker
